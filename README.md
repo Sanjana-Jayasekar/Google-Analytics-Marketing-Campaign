@@ -1,7 +1,7 @@
 # Google Ad Grants Online Marketing Challenge
 
 
-###Project Status: Completed
+### Project Status: Completed
 
 ## Project Intro/Objective
 The project is a part of Google Ad Grants Online Marketing Challenge. The objective of the project is to run a online maketing campaign for a Non-Profit Organization,
